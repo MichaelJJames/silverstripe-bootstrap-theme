@@ -16,5 +16,5 @@
 				<a href="$Link" <% if $LinkingMode %> class="active" <% end_if %> title="$Title.XML" >$MenuTitle.XML</a>
 			</li>
 		<% end_if %>
-	<% end_if %>
+	<% end_loop %>
 </ul>
