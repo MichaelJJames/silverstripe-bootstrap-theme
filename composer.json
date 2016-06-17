@@ -1,0 +1,17 @@
+{
+    "name": "michaeljjames/silverstripe-bootstrap-theme",
+    "description": "Default Bootstrap Theme for Silverstripe",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "theme", "bootstrap", "responsive"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Michael J James",
+            "homepage": "http://www.michaeljjames.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/framework": ">=3.0"
+    }
+}
